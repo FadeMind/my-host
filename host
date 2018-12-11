@@ -146,6 +146,8 @@
 127.0.0.1 mc.corel.com
 127.0.0.1 origin-mc.corel.com
 127.0.0.1 iws.corel.com
-#ban ut
+# uTorrent ads
+0.0.0.0 cdn.bitmedianetwork.com
+0.0.0.0 static.ap.bittorrent.com
 127.0.0.1 utclient.utorrent.com
 127.0.0.1 utorrent.com
